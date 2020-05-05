@@ -1,0 +1,11 @@
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/bin/Debug/netcoreapp3.1/Task2
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.deps.json
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.json
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.dev.json
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.dll
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.pdb
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.csprojAssemblyReference.cache
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfo.cs
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.dll
+/Users/stanislav/Desktop/c#/lab4/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.pdb

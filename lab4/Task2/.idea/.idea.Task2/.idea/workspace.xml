@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7512f5bb-154a-4dee-bb53-8ed341efdced" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../lab3/lab3/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Task2/Program.cs" />
+        <option value="$PROJECT_DIR$/Task2/MyLib.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bRhLpwzrA616Ug0dYRm5zCacKv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Task2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Task2/Task2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7512f5bb-154a-4dee-bb53-8ed341efdced" name="Default Changelist" comment="" />
+      <created>1588600759820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588600759820</updated>
+      <workItem from="1588600762355" duration="1974000" />
+      <workItem from="1588675033241" duration="1655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588687917553">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588687917553" />
+    <state x="361" y="227" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1588603064121">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="361" y="227" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1440.900@0.0.1440.900" timestamp="1588603064121" />
+    <state width="1440" height="235" key="GridCell.Tab.0.bottom" timestamp="1588688172989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588688172989" />
+    <state width="1440" height="235" key="GridCell.Tab.0.center" timestamp="1588688172988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588688172988" />
+    <state width="1440" height="235" key="GridCell.Tab.0.left" timestamp="1588688172987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588688172987" />
+    <state width="1440" height="235" key="GridCell.Tab.0.right" timestamp="1588688172988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588688172988" />
+    <state x="320" y="189" key="Rider.ProjectTemplateDialog.Size" timestamp="1588604531332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="189" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1588604531332" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1588676869282">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588676869282" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1588676277849">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1588676277849" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/bin/Debug/netcoreapp3.1/Keylogger
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/bin/Debug/netcoreapp3.1/Keylogger.deps.json
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/bin/Debug/netcoreapp3.1/Keylogger.runtimeconfig.json
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/bin/Debug/netcoreapp3.1/Keylogger.runtimeconfig.dev.json
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/bin/Debug/netcoreapp3.1/Keylogger.dll
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/bin/Debug/netcoreapp3.1/Keylogger.pdb
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/obj/Debug/netcoreapp3.1/Keylogger.csprojAssemblyReference.cache
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/obj/Debug/netcoreapp3.1/Keylogger.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/obj/Debug/netcoreapp3.1/Keylogger.AssemblyInfo.cs
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/obj/Debug/netcoreapp3.1/Keylogger.dll
+/Users/stanislav/Desktop/c#/lab4/Keylogger/Keylogger/obj/Debug/netcoreapp3.1/Keylogger.pdb
