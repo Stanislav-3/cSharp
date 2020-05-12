@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stanislav/Desktop/c#/lab4/Task2/Task2/Task2.csproj": {}
+    "C:\\Users\\Станислав\\Desktop\\lab4\\Task2\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "/Users/stanislav/Desktop/c#/lab4/Task2/Task2/Task2.csproj": {
+    "C:\\Users\\Станислав\\Desktop\\lab4\\Task2\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stanislav/Desktop/c#/lab4/Task2/Task2/Task2.csproj",
+        "projectUniqueName": "C:\\Users\\Станислав\\Desktop\\lab4\\Task2\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "/Users/stanislav/Desktop/c#/lab4/Task2/Task2/Task2.csproj",
-        "packagesPath": "/Users/stanislav/.nuget/packages/",
-        "outputPath": "/Users/stanislav/Desktop/c#/lab4/Task2/Task2/obj/",
+        "projectPath": "C:\\Users\\Станислав\\Desktop\\lab4\\Task2\\Task2\\Task2.csproj",
+        "packagesPath": "C:\\Users\\Станислав\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Станислав\\Desktop\\lab4\\Task2\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/stanislav/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Станислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/stanislav/.dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

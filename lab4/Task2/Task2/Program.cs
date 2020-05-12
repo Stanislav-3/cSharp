@@ -27,7 +27,7 @@ namespace Task2
                 Console.WriteLine("Invalid input...Retry");
             }
             Console.WriteLine("Input modulus:");
-            while (!Int32.TryParse(Console.ReadLine(), out mod))
+            while (!Int32.TryParse(Console.ReadLine(), out mod) || mod == 0)
             {
                 Console.WriteLine("Invalid input...Retry");
             }
