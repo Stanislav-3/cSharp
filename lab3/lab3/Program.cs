@@ -223,7 +223,7 @@ namespace lab3
 
         static bool RequiredInitialization(out string fullName, out string identifier, out bool isMale, out DateTime dayOfBirth)
         {
-            fullName = identifier = "1";
+            fullName = identifier = "";
             isMale = true;
             dayOfBirth = DateTime.Now;
             Console.WriteLine("Enter a full name:");
