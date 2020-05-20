@@ -1,0 +1,11 @@
+/Users/stanislav/Desktop/c#/lab6/lab6/bin/Debug/netcoreapp3.1/lab6
+/Users/stanislav/Desktop/c#/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.deps.json
+/Users/stanislav/Desktop/c#/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.runtimeconfig.json
+/Users/stanislav/Desktop/c#/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.runtimeconfig.dev.json
+/Users/stanislav/Desktop/c#/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.dll
+/Users/stanislav/Desktop/c#/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.pdb
+/Users/stanislav/Desktop/c#/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csprojAssemblyReference.cache
+/Users/stanislav/Desktop/c#/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/c#/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.AssemblyInfo.cs
+/Users/stanislav/Desktop/c#/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.dll
+/Users/stanislav/Desktop/c#/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.pdb

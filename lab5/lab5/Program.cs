@@ -12,12 +12,12 @@ namespace lab5
             while (true)
             {
                 Console.Write("Menu:\n" +
-                                  "1) Show all students\n" +
-                                  "2) Add a student\n" +
-                                  "3) Delete a student\n" +
-                                  "4) Show subjects\n" +
-                                  "5) Arrange a study\n" +
-                                  "6) Exit\n>>>");
+                              "1) Show all students\n" +
+                              "2) Add a student\n" +
+                              "3) Delete a student\n" +
+                              "4) Show subjects\n" +
+                              "5) Arrange a study\n" +
+                              "6) Exit\n>>>");
                 int menuItem = ReadInt(6);
                 switch (menuItem)
                 {
@@ -35,11 +35,11 @@ namespace lab5
                     case 2:
                         Student student;
                         Console.Write("Who do you want to add?:\n" +
-                                          "1) Just a student\n" +
-                                          "2) An engineer\n" +
-                                          "3) A sportsman\n" +
-                                          "4) A humanitarian\n" +
-                                          "5) Return\n>>>");
+                                      "1) Just a student\n" +
+                                      "2) An engineer\n" +
+                                      "3) A sportsman\n" +
+                                      "4) A humanitarian\n" +
+                                      "5) Return\n>>>");
                         menuItem = ReadInt(5);
                         switch (menuItem)
                         {
