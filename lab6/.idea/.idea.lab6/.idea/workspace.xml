@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db733109-53b6-4bc6-9a4e-d20d70959938" name="Default Changelist" comment="" />
+    <list default="true" id="db733109-53b6-4bc6-9a4e-d20d70959938" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/Human.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/Human.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/bin/Debug/netcoreapp3.1/lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/bin/Debug/netcoreapp3.1/lab6.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/bin/Debug/netcoreapp3.1/lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/bin/Debug/netcoreapp3.1/lab6.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/netcoreapp3.1/lab6.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/lab6.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/lab6.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/lab6.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/lab6.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lab6/Sportsman.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab6/Humanitarian.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab6/Student.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab6/Engineer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../lab5/lab5/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab6/Humanitarian.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../c#/lab3/lab3/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab6/Human.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../lab5/lab5/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab6/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab6/IParty.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab6/ICompetition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab6/Engineer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -25,16 +45,17 @@
         <option value="$PROJECT_DIR$/lab6/ICompetition.cs" />
         <option value="$PROJECT_DIR$/lab6/Student.cs" />
         <option value="$PROJECT_DIR$/lab6/IParty.cs" />
-        <option value="$PROJECT_DIR$/lab6/Human.cs" />
         <option value="$PROJECT_DIR$/../lab5/lab5/Program.cs" />
         <option value="$PROJECT_DIR$/lab6/Engineer.cs" />
         <option value="$PROJECT_DIR$/lab6/Humanitarian.cs" />
         <option value="$PROJECT_DIR$/lab6/Sportsman.cs" />
         <option value="$PROJECT_DIR$/lab6/Program.cs" />
+        <option value="$PROJECT_DIR$/lab6/Human.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1c86rUOL2kYDChQDGSSgQH5mky3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,6 +63,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -88,31 +110,32 @@
       <option name="presentableId" value="Default" />
       <updated>1589898071965</updated>
       <workItem from="1589898074607" duration="13599000" />
+      <workItem from="1589989281530" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1440" height="312" key="GridCell.Tab.0.bottom" timestamp="1589988832317">
+    <state width="1440" height="135" key="GridCell.Tab.0.bottom" timestamp="1589990592765">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589988832317" />
-    <state width="1440" height="312" key="GridCell.Tab.0.center" timestamp="1589988832317">
+    <state width="1440" height="135" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589990592765" />
+    <state width="1440" height="135" key="GridCell.Tab.0.center" timestamp="1589990592764">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589988832317" />
-    <state width="1440" height="312" key="GridCell.Tab.0.left" timestamp="1589988832316">
+    <state width="1440" height="135" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589990592764" />
+    <state width="1440" height="135" key="GridCell.Tab.0.left" timestamp="1589990592763">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589988832316" />
-    <state width="1440" height="312" key="GridCell.Tab.0.right" timestamp="1589988832317">
+    <state width="1440" height="135" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589990592763" />
+    <state width="1440" height="135" key="GridCell.Tab.0.right" timestamp="1589990592764">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589988832317" />
+    <state width="1440" height="135" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589990592764" />
     <state width="1440" height="312" key="GridCell.Tab.1.bottom" timestamp="1589988832319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

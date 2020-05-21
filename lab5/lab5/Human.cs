@@ -195,7 +195,7 @@ namespace lab5
 
         public int CompareTo(Human human)
         {
-            return ToString().CompareTo(human.FullName);
+            return FullName.CompareTo(human.FullName);
         }
     }
 }

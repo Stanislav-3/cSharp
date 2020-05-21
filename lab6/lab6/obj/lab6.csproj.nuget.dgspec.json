@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stanislav/Desktop/c#/lab6/lab6/lab6.csproj": {}
+    "/Users/stanislav/Desktop/GitHub/cSharp/lab6/lab6/lab6.csproj": {}
   },
   "projects": {
-    "/Users/stanislav/Desktop/c#/lab6/lab6/lab6.csproj": {
+    "/Users/stanislav/Desktop/GitHub/cSharp/lab6/lab6/lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stanislav/Desktop/c#/lab6/lab6/lab6.csproj",
+        "projectUniqueName": "/Users/stanislav/Desktop/GitHub/cSharp/lab6/lab6/lab6.csproj",
         "projectName": "lab6",
-        "projectPath": "/Users/stanislav/Desktop/c#/lab6/lab6/lab6.csproj",
+        "projectPath": "/Users/stanislav/Desktop/GitHub/cSharp/lab6/lab6/lab6.csproj",
         "packagesPath": "/Users/stanislav/.nuget/packages/",
-        "outputPath": "/Users/stanislav/Desktop/c#/lab6/lab6/obj/",
+        "outputPath": "/Users/stanislav/Desktop/GitHub/cSharp/lab6/lab6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stanislav/.config/NuGet/NuGet.Config"

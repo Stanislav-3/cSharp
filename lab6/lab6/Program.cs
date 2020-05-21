@@ -35,8 +35,9 @@ namespace lab6
                                           "3) Delete an engineer\n" +
                                           "4) Arrange a competition\n" +
                                           "5) Arrange a party\n" +
-                                          "6) Return\n>>>");
-                            menuItem = ReadInt(6);
+                                          "6) Sort by names\n" +
+                                          "7) Return\n>>>");
+                            menuItem = ReadInt(7);
                             if (menuItem == 1)
                             {
                                 Console.Clear();
@@ -122,7 +123,13 @@ namespace lab6
                                                       $"{Math.Round(intelligencege - ((Engineer) student).Intelligence, 2)}% of intelligence");
                                 }
                             }
-                            else if (menuItem == 6) break;
+                            else if (menuItem == 6)
+                            {
+                                if (NoStudents(engineers)) break;
+                                engineers.Sort();
+                                Console.WriteLine("Engineers were successfully sorted by their full names");
+                            }
+                            else if (menuItem == 7) break;
                         }
 
                         break;
@@ -130,8 +137,8 @@ namespace lab6
                         // Humanitarian
                         List<Student> humanitarians = new List<Student>()
                         {
-                            new Humanitarian("Tanya", "1", true, DateTime.Parse("10/10/2001"), 1, 37, 67),
-                            new Humanitarian("Tom", "2", true, DateTime.Parse("9/07/2002"), 2, 47, 32),
+                            new Humanitarian("Tom", "1", true, DateTime.Parse("10/10/2001"), 1, 37, 67),
+                            new Humanitarian("Tanya", "2", false, DateTime.Parse("9/07/2002"), 2, 47, 32),
                             new Humanitarian("Masha", "3", false, DateTime.Parse("9/05/2000"), 3, 65, 53)
                         };
                         while (true)
@@ -142,8 +149,9 @@ namespace lab6
                                           "3) Delete a humanitarian\n" +
                                           "4) Arrange a competition\n" +
                                           "5) Arrange a party\n" +
-                                          "6) Return\n>>>");
-                            menuItem = ReadInt(6);
+                                          "6) Sort by names\n" +
+                                          "7) Return\n>>>");
+                            menuItem = ReadInt(7);
                             if (menuItem == 1)
                             {
                                 Console.Clear();
@@ -233,7 +241,13 @@ namespace lab6
                                         $"{Math.Round(vocabulary - ((Humanitarian) student).Vocabulary, 2)}% of vocabulary");
                                 }
                             }
-                            else if (menuItem == 6) break;
+                            else if (menuItem == 6)
+                            {
+                                if (NoStudents(humanitarians)) break;
+                                humanitarians.Sort();
+                                Console.WriteLine("Humanitarians were successfully sorted by their full names");
+                            }
+                            else if (menuItem == 7) break;
                         }
 
                         break;
@@ -253,8 +267,9 @@ namespace lab6
                                           "3) Delete a sportsman\n" +
                                           "4) Arrange a competition\n" +
                                           "5) Arrange a party\n" +
-                                          "6) Return\n>>>");
-                            menuItem = ReadInt(6);
+                                          "6) Sort by names\n" +
+                                          "7) Return\n>>>");
+                            menuItem = ReadInt(7);
                             if (menuItem == 1)
                             {
                                 Console.Clear();
@@ -344,7 +359,13 @@ namespace lab6
                                         $"{Math.Round(strength - ((Sportsman) student).Strength, 2)}% of strength");
                                 }
                             }
-                            else if (menuItem == 6) break;
+                            else if (menuItem == 6)
+                            {
+                                if (NoStudents(sportsmen)) break;
+                                sportsmen.Sort();
+                                Console.WriteLine("Sportsmen were successfully sorted by their full names");
+                            }
+                            else if (menuItem == 7) break;
                         }
                         break;
                     case 4:
