@@ -86,16 +86,17 @@ namespace lab6
 
         public override string ToString()
         {
+            string gender;
             if (IsMale)
             {
-                string gender = "Male";
+                gender = "Male";
             }
             else
             {
-                string gender = "Female";
+                gender = "Female";
             }
 
-            return string.Format($"{FullName}, ID: {Identifier}, gender, Date of Birth: {DateOfBirth.Date.ToString("d")}\n" +
+            return string.Format($"{FullName}, ID: {Identifier}, {gender}, Date of Birth: {DateOfBirth.Date.ToString("d")}\n" +
                                  $"Course: {_studentInfo.Course}, Promise: {Promise} %");
         }
     }

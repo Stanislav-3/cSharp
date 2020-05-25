@@ -2,26 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="740de36a-893d-4686-bd24-27fadfade12c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lab5/Human.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Human.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Student.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab5/bin/Debug/netcoreapp3.1/lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/bin/Debug/netcoreapp3.1/lab5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab5/bin/Debug/netcoreapp3.1/lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/bin/Debug/netcoreapp3.1/lab5.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab5/obj/Debug/netcoreapp3.1/lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/obj/Debug/netcoreapp3.1/lab5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab5/obj/Debug/netcoreapp3.1/lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/obj/Debug/netcoreapp3.1/lab5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/.idea/.idea.lab6/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/.idea.lab6/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/.idea/.idea.lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/.idea.lab6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/Human.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/Human.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/lab6/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/Student.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/lab6/bin/Debug/netcoreapp3.1/lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/bin/Debug/netcoreapp3.1/lab6.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/lab6/bin/Debug/netcoreapp3.1/lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/bin/Debug/netcoreapp3.1/lab6.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/Debug/netcoreapp3.1/lab6.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/lab6.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/lab6.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/lab6.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/lab6.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/.idea/.idea.lab7/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/.idea/.idea.lab7/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/.idea/.idea.lab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/.idea/.idea.lab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/bin/Debug/netcoreapp3.1/lab7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/bin/Debug/netcoreapp3.1/lab7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/bin/Debug/netcoreapp3.1/lab7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/bin/Debug/netcoreapp3.1/lab7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/Debug/netcoreapp3.1/lab7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/lab7.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/lab7.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/lab7.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/lab7.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +51,9 @@
         <option value="$PROJECT_DIR$/lab5/Sportsman.cs" />
         <option value="$PROJECT_DIR$/lab5/Engineer.cs" />
         <option value="$PROJECT_DIR$/lab5/Humanitarian.cs" />
-        <option value="$PROJECT_DIR$/lab5/Student.cs" />
         <option value="$PROJECT_DIR$/lab5/Program.cs" />
         <option value="$PROJECT_DIR$/lab5/Human.cs" />
+        <option value="$PROJECT_DIR$/lab5/Student.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +117,7 @@
       <workItem from="1589469115898" duration="45000" />
       <workItem from="1589988876649" duration="69000" />
       <workItem from="1589990619383" duration="40000" />
+      <workItem from="1590418602100" duration="100000" />
     </task>
     <servers />
   </component>
@@ -122,22 +127,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1440" height="76" key="GridCell.Tab.0.bottom" timestamp="1589990658647">
+    <state width="1440" height="161" key="GridCell.Tab.0.bottom" timestamp="1590418701852">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="76" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589990658647" />
-    <state width="1440" height="76" key="GridCell.Tab.0.center" timestamp="1589990658646">
+    <state width="1440" height="161" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590418701852" />
+    <state width="1440" height="161" key="GridCell.Tab.0.center" timestamp="1590418701851">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="76" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589990658646" />
-    <state width="1440" height="76" key="GridCell.Tab.0.left" timestamp="1589990658645">
+    <state width="1440" height="161" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590418701851" />
+    <state width="1440" height="161" key="GridCell.Tab.0.left" timestamp="1590418701851">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="76" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589990658645" />
-    <state width="1440" height="76" key="GridCell.Tab.0.right" timestamp="1589990658646">
+    <state width="1440" height="161" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590418701851" />
+    <state width="1440" height="161" key="GridCell.Tab.0.right" timestamp="1590418701852">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="76" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589990658646" />
+    <state width="1440" height="161" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590418701852" />
     <state width="1440" height="312" key="GridCell.Tab.1.bottom" timestamp="1589469074396">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
