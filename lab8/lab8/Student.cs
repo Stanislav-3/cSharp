@@ -88,7 +88,7 @@ namespace lab8
         {
             Random random = new Random();
             double pPromise = Promise;
-            Promise += transformer(-4) * minutes * random.NextDouble();
+            Promise += transformer(-3) * minutes * random.NextDouble();
             ParameterChangedMessage?.Invoke("Promise", pPromise, Promise);
         }
 

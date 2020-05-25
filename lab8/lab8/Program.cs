@@ -10,17 +10,20 @@ namespace lab8
         static readonly List<Student> students = new List<Student>();
         static void Main(string[] args)
         {
+            bool relationshipNotificationIsOn = false,
+                marriageNotificationIsOn = false,
+                divorceNotificationIsOn = false;
             while (true)
             {
                 Console.Write("Menu:\n" +
-                                  "1) Show all students\n" +
-                                  "2) Add a student\n" +
-                                  "3) Delete a student\n" +
-                                  "4) Arrange a study\n" +
-                                  "5) Change personal info\n" +
-                                  "6) Change skill handlers\n" +
-                                  "7) Change personal info handlers\n" +
-                                  "8) Exit\n>>>");
+                              "1) Show all students\n" +
+                              "2) Add a student\n" +
+                              "3) Delete a student\n" +
+                              "4) Arrange a study\n" +
+                              "5) Change personal info\n" +
+                              "6) Change skill handlers\n" +
+                              "7) Change personal info handlers\n" +
+                              "8) Exit\n>>>");
                 int menuItem = ReadInt(8);
                 switch (menuItem)
                 {
@@ -266,14 +269,15 @@ namespace lab8
                             
                         break;
                     case 7:
-                        bool relationshipNotificationIsOn = false,
-                             marriageNotificationIsOn = false,
-                             divorceNotificationIsOn = false;
-                        Console.Write("Menu:\n" +
-                                      "1) Add/remove parent-child relationship notification\n" +
-                                      "2) Add/remove marriage notification\n" +
-                                      "3) Add/remove divorce notification\n" +
-                                      "4) Return\n>>>");
+                        string[] isOn = new string[3];
+                        isOn[0] = relationshipNotificationIsOn ? "Remove" : "Add";
+                        isOn[1] = marriageNotificationIsOn ? "Remove" : "Add";
+                        isOn[2] = divorceNotificationIsOn ? "Remove" : "Add";
+                            Console.Write("Menu:\n" +
+                                          $"1) {isOn[0]} parent-child relationship notification\n" +
+                                          $"2) {isOn[1]} marriage notification\n" +
+                                          $"3) {isOn[2]} divorce notification\n" +
+                                          "4) Return\n>>>");
                         menuItem = ReadInt(4);
                         if (menuItem == 1)
                         {

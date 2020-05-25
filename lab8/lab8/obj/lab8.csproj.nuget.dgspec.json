@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stanislav/Desktop/c#/lab8/lab8/lab8.csproj": {}
+    "/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/lab8.csproj": {}
   },
   "projects": {
-    "/Users/stanislav/Desktop/c#/lab8/lab8/lab8.csproj": {
+    "/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/lab8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stanislav/Desktop/c#/lab8/lab8/lab8.csproj",
+        "projectUniqueName": "/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/lab8.csproj",
         "projectName": "lab8",
-        "projectPath": "/Users/stanislav/Desktop/c#/lab8/lab8/lab8.csproj",
+        "projectPath": "/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/lab8.csproj",
         "packagesPath": "/Users/stanislav/.nuget/packages/",
-        "outputPath": "/Users/stanislav/Desktop/c#/lab8/lab8/obj/",
+        "outputPath": "/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stanislav/.config/NuGet/NuGet.Config"

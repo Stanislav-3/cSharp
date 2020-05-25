@@ -9,3 +9,14 @@
 /Users/stanislav/Desktop/c#/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.AssemblyInfo.cs
 /Users/stanislav/Desktop/c#/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.dll
 /Users/stanislav/Desktop/c#/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.pdb
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/bin/Debug/netcoreapp3.1/lab8
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/bin/Debug/netcoreapp3.1/lab8.deps.json
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/bin/Debug/netcoreapp3.1/lab8.runtimeconfig.json
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/bin/Debug/netcoreapp3.1/lab8.runtimeconfig.dev.json
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/bin/Debug/netcoreapp3.1/lab8.dll
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/bin/Debug/netcoreapp3.1/lab8.pdb
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.csprojAssemblyReference.cache
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.AssemblyInfo.cs
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.dll
+/Users/stanislav/Desktop/GitHub/cSharp/lab8/lab8/obj/Debug/netcoreapp3.1/lab8.pdb
