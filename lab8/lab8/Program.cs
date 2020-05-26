@@ -13,6 +13,8 @@ namespace lab8
             bool relationshipNotificationIsOn = false,
                 marriageNotificationIsOn = false,
                 divorceNotificationIsOn = false;
+            Human.PersonalInfoChangedHandler FamilyMessage, MarriageMessage, DivorceMessage ;
+            FamilyMessage = MarriageMessage = DivorceMessage = message => Console.WriteLine(message);
             while (true)
             {
                 Console.Write("Menu:\n" +
@@ -61,7 +63,7 @@ namespace lab8
                                 if (student != null)
                                 {
                                     students.Add(student);
-                                    Console.WriteLine("New student successfully had been added!");
+                                    Console.WriteLine("New student successfully has been added!");
                                 }
                                 
                                 break;
@@ -77,7 +79,7 @@ namespace lab8
                                 if (student != null)
                                 {
                                     students.Add(student);
-                                    Console.WriteLine("New student successfully had been added!");
+                                    Console.WriteLine("New student successfully has been added!");
                                 }
                                 
                                 break;
@@ -93,7 +95,7 @@ namespace lab8
                                 if (student != null)
                                 {
                                     students.Add(student);
-                                    Console.WriteLine("New student successfully had been added!");
+                                    Console.WriteLine("New student successfully has been added!");
                                 }
                                 
                                 break;
@@ -109,7 +111,7 @@ namespace lab8
                                 if (student != null)
                                 {
                                     students.Add(student);
-                                    Console.WriteLine("New student successfully had been added!");
+                                    Console.WriteLine("New student successfully has been added!");
                                 }
                                 
                                 break;
@@ -254,20 +256,17 @@ namespace lab8
                         else if (menuItem == 2)
                         {
                             Student.ParameterChangedMessage =
-                                delegate(string parameter, double pValue, double value)
-                                {
-                                    Console.WriteLine(parameter + " changed");
-                                };
+                                (parameter, pValue, value) => Console.WriteLine(parameter + " changed");
                         }
                         else if (menuItem == 3)
                         {
-                            Student.ParameterChangedMessage = delegate(string parameter, double pValue, double value) 
-                            { 
+                            Student.ParameterChangedMessage = delegate(string parameter, double pValue, double value)
+                            {
                                 Console.WriteLine(parameter + $" changed from {pValue} to {value} (difference {Math.Round(value - pValue, 2)})");
                             };
                         }
-                            
-                        break;
+
+                            break;
                     case 7:
                         string[] isOn = new string[3];
                         isOn[0] = relationshipNotificationIsOn ? "Remove" : "Add";
@@ -283,12 +282,12 @@ namespace lab8
                         {
                             if (!relationshipNotificationIsOn)
                             {
-                                Human.FamilyMessage += message => Console.WriteLine(message);
+                                Human.FamilyMessage +=  FamilyMessage;
                                 relationshipNotificationIsOn = true;
                             }
                             else
                             {
-                                Human.FamilyMessage -= message => Console.WriteLine(message);
+                                Human.FamilyMessage -=  FamilyMessage;
                                 relationshipNotificationIsOn = false;
                             }
                         }
@@ -296,12 +295,12 @@ namespace lab8
                         {
                             if (!marriageNotificationIsOn)
                             {
-                                Human.MarriageMessage += message => Console.WriteLine(message);
+                                Human.MarriageMessage +=  MarriageMessage;
                                 marriageNotificationIsOn = true;
                             }
                             else
                             {
-                                Human.MarriageMessage -= message => Console.WriteLine(message);
+                                Human.MarriageMessage -=  MarriageMessage;
                                 marriageNotificationIsOn = false;
                             }
                         }
@@ -309,12 +308,12 @@ namespace lab8
                         {
                             if (!divorceNotificationIsOn)
                             {
-                                Human.DivorceMessage += message => Console.WriteLine(message);
+                                Human.DivorceMessage += DivorceMessage;
                                 divorceNotificationIsOn = true;
                             }
                             else
                             {
-                                Human.DivorceMessage -= message => Console.WriteLine(message);
+                                Human.DivorceMessage -= DivorceMessage;
                                 divorceNotificationIsOn = false;
                             }
                         }
