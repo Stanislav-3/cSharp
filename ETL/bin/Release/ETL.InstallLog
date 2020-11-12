@@ -1,0 +1,96 @@
+﻿Выполняется установка сборки 'C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Станислав\source\repos\ETL\bin\Release\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Устанавливается служба ETL...
+Создается исходный EventLog ETL в журнале Application...
+Выполняется откат для сборки 'C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.InstallLog
+   assemblypath = C:\Users\Stanislav\source\repos\ETL\bin\Release\ETL.exe
+Восстанавливается исходное состояние журнала событий для источника ETL.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
