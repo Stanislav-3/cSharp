@@ -30,11 +30,18 @@ namespace ETL
                 aes.IV = iv;
 
                 using (var encryptor = aes.CreateEncryptor(aes.Key, aes.IV))
-                return Encrypt(data, encryptor);
+                using (var memoryStream = new MemoryStream())
+                using (var cryptoStream = new CryptoStream(memoryStream, encryptor, CryptoStreamMode.Write))
+                {
+                    cryptoStream.Write(data, 0, data.Length);
+                    cryptoStream.FlushFinalBlock();
+
+                    return memoryStream.ToArray();
+                }
             }
         }
 
-        static public byte[] Decrypt(byte[] data, byte[] key, byte[] iv)
+        static public string Decrypt(byte[] data, byte[] key, byte[] iv)
         {
             using (var aes = Aes.Create())
             {
@@ -42,19 +49,10 @@ namespace ETL
                 aes.IV = iv;
 
                 using (var decryptor = aes.CreateDecryptor(aes.Key, aes.IV))
-                return Encrypt(data, decryptor);
-            }
-        }
-
-        static private byte[] Encrypt(byte[] data, ICryptoTransform cryptoTransform)
-        {
-            using (var memoryStream = new MemoryStream())
-            using (var cryptoStream = new CryptoStream(memoryStream, cryptoTransform, CryptoStreamMode.Write))
-            {
-                cryptoStream.Write(data, 0, data.Length);
-                cryptoStream.FlushFinalBlock();
-
-                return memoryStream.ToArray();
+                using (var memoryStream = new MemoryStream(data))
+                using (var cryptoStream = new CryptoStream(memoryStream, decryptor, CryptoStreamMode.Read))
+                using (var streamReader = new StreamReader(cryptoStream))
+                return streamReader.ReadToEnd();
             }
         }
     }

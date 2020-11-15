@@ -13,20 +13,19 @@ namespace ETL
     public partial class Installer : System.Configuration.Install.Installer
     {
         private ServiceInstaller serviceInstaller;
-        private ServiceProcessInstaller serviceProcessInstaller;
+        private ServiceProcessInstaller processInstaller;
 
         public Installer()
         {
             InitializeComponent();
             serviceInstaller = new ServiceInstaller();
-            serviceProcessInstaller = new ServiceProcessInstaller();
+            processInstaller = new ServiceProcessInstaller();
 
-            serviceProcessInstaller.Account = ServiceAccount.LocalSystem;
+            processInstaller.Account = ServiceAccount.LocalSystem;
             serviceInstaller.StartType = ServiceStartMode.Manual;
             serviceInstaller.ServiceName = "ETL";
-            
+            Installers.Add(processInstaller);
             Installers.Add(serviceInstaller);
-            Installers.Add(serviceProcessInstaller);
         }
     }
 }

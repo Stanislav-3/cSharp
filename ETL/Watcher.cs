@@ -43,11 +43,6 @@ namespace ETL
 
                 byte[] key, iv;
                 (key, iv) = Encryptor.CreateKeyAndIV();
-                
-                //encryting
-                byte[] content = File.ReadAllBytes(path);
-                content = Encryptor.Encrypt(content, key, iv);
-                File.WriteAllBytes(path, content);
 
                 string name = Path.GetFileNameWithoutExtension(path);
                 string extension = Path.GetExtension(path);
@@ -55,30 +50,36 @@ namespace ETL
                 string gzPath = Path.Combine(targetDir, name + ".gz");
                 string newPath = Path.Combine(targetDir, name + extension);
 
+                //encryting
+                byte[] content = File.ReadAllBytes(path);
+                content = Encryptor.Encrypt(content, key, iv);
+                File.WriteAllBytes(path, content);
+
                 //compressing and copying to targetDir
                 Archive.Compress(path, gzPath);
+                logger.Log($"File \"{name}\" is moved from \"{sourceDir}\" to \"{targetDir}\" successfully!");
+                File.Delete(path);
+
+                //copying to additional archive
+                char sep = Path.DirectorySeparatorChar;
+                string archiveDir = Path.Combine(targetDir, $"archive{sep}year {year}{sep}month {month}{sep}day {day}");
+                string archiveName = name + '_' + dateTime.ToString("yyyy_MM_dd_HH_mm_ss") + ".gz";
+                string archivePath = Path.Combine(archiveDir, archiveName);
+                Directory.CreateDirectory(archiveDir);
+                File.Copy(gzPath, archivePath);
 
                 //decompressing
                 Archive.Decompress(gzPath, newPath);
-
-                //additional archive
-                string newArchiveDir = Path.Combine(targetDir, $@"archive\{year}\{month}\{day}");
-                string newArchiveName = dateTime.ToString($@"{name}_yyyy_MM_dd_HH_mm_ss") + extension;
-                string newArchivePath = Path.Combine(newArchiveDir, newArchiveName);
-
-                Directory.CreateDirectory(newArchiveDir);
-                File.Copy(newPath, newArchivePath);
+                File.Delete(gzPath);
 
                 //decrypting
                 content = File.ReadAllBytes(newPath);
-                content = Encryptor.Decrypt(content, key, iv);
-                File.WriteAllBytes(newPath, content);
-
-                logger.Log($"File \"{fileName}\" is moved from \"{sourceDir}\" to \"{targetDir}\" successfully!");
+                string decrypted = Encryptor.Decrypt(content, key, iv);
+                File.WriteAllText(newPath, decrypted);
             }
             catch 
             {
-                logger.Log($"File isn't moved...");
+                logger.Log("A problem occured...");
             }
         }
 

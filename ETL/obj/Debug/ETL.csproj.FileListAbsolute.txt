@@ -12,3 +12,10 @@ C:\Users\Stanislav\source\repos\ETL\obj\Debug\ETL.csprojAssemblyReference.cache
 C:\Users\Stanislav\source\repos\ETL\obj\Debug\ETL.csproj.CoreCompileInputs.cache
 C:\Users\Stanislav\source\repos\ETL\obj\Debug\ETL.exe
 C:\Users\Stanislav\source\repos\ETL\obj\Debug\ETL.pdb
+C:\Users\Stanislav\Desktop\ETL\bin\Debug\ETL.exe.config
+C:\Users\Stanislav\Desktop\ETL\bin\Debug\ETL.exe
+C:\Users\Stanislav\Desktop\ETL\bin\Debug\ETL.pdb
+C:\Users\Stanislav\Desktop\ETL\obj\Debug\ETL.csprojAssemblyReference.cache
+C:\Users\Stanislav\Desktop\ETL\obj\Debug\ETL.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\ETL\obj\Debug\ETL.exe
+C:\Users\Stanislav\Desktop\ETL\obj\Debug\ETL.pdb
