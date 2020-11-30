@@ -1,0 +1,15 @@
+<ETLOptions>
+	<MovingOptions>
+		<EnableArchiveDirectory>True</EnableArchiveDirectory>
+		<EnableLogging>True</EnableLogging>
+		<SourceDirectory>C:\Users\Public\Desktop\SourceFolder</SourceDirectory>
+		<TargetDirectory>C:\Users\Public\Desktop\TargetFolder</TargetDirectory>
+	</MovingOptions>
+	<WatcherOptions>
+		<Filter>*.txt</Filter>
+	</WatcherOptions>
+	<ArchiveOptions>
+		<CompressionLevel>Optimal</CompressionLevel>
+	</ArchiveOptions>
+
+</ETLOptions>

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\Converter\bin\Debug\Converter.dll
+C:\Users\Stanislav\Desktop\Converter\bin\Debug\Converter.pdb
+C:\Users\Stanislav\Desktop\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\Converter\obj\Debug\Converter.dll
+C:\Users\Stanislav\Desktop\Converter\obj\Debug\Converter.pdb

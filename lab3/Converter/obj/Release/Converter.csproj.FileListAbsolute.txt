@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\Converter\bin\Release\Converter.dll
+C:\Users\Stanislav\Desktop\Converter\bin\Release\Converter.pdb
+C:\Users\Stanislav\Desktop\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\Converter\obj\Release\Converter.dll
+C:\Users\Stanislav\Desktop\Converter\obj\Release\Converter.pdb
