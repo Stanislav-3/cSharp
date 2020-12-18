@@ -1,0 +1,15 @@
+Converter(библиотека) - parser для xml/json
+
+OptionManager(библиотека) - работает с любыми классами настроек, загружая их из xml/json
+
+DataAccessLayer(библиотека) - подключаться к бд через ADO.NET и извлекает оттуда данные (HumanResources.Department, HumanResources.Employee,
+HumanResources.EmployeeDepartmentHistory, EmployeePayHistory, JobCandidate -> HumanResourcesInfo)
+
+Logger(библиотека) -  логгер пишущий в отдельную базу данных
+
+ServiceLayer(библиотека) - работает с бд на более высоком уровне, используя DataAccessLayer
+
+FileManager - модифицированная ETL, 
+
+DataManager - извлекает настройки благодаря OptionsManager, вызывает методы из ServiceLayer, создает файлы и отправляет FileManager
+Может отправлять данные целиком, может частями, также используя JOIN'ы
