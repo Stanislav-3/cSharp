@@ -1,0 +1,8 @@
+C:\Users\stas1\Desktop\lab4\Converter\bin\Debug\netstandard2.0\Converter.deps.json
+C:\Users\stas1\Desktop\lab4\Converter\bin\Debug\netstandard2.0\Converter.dll
+C:\Users\stas1\Desktop\lab4\Converter\bin\Debug\netstandard2.0\Converter.pdb
+C:\Users\stas1\Desktop\lab4\Converter\obj\Debug\netstandard2.0\Converter.AssemblyInfoInputs.cache
+C:\Users\stas1\Desktop\lab4\Converter\obj\Debug\netstandard2.0\Converter.AssemblyInfo.cs
+C:\Users\stas1\Desktop\lab4\Converter\obj\Debug\netstandard2.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\stas1\Desktop\lab4\Converter\obj\Debug\netstandard2.0\Converter.dll
+C:\Users\stas1\Desktop\lab4\Converter\obj\Debug\netstandard2.0\Converter.pdb

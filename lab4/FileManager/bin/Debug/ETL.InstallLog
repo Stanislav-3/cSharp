@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\stas1\Desktop\lab4\FileManager\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\stas1\Desktop\lab4\FileManager\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\stas1\Desktop\lab4\FileManager\bin\Debug\ETL.exe
+Устанавливается служба ETL...
+Служба ETL успешно установлена.
+Создается исходный EventLog ETL в журнале Application...
+Выполняется фиксация сборки 'C:\Users\stas1\Desktop\lab4\FileManager\bin\Debug\ETL.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\stas1\Desktop\lab4\FileManager\bin\Debug\ETL.InstallLog
+   assemblypath = C:\Users\stas1\Desktop\lab4\FileManager\bin\Debug\ETL.exe

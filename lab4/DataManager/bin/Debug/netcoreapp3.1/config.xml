@@ -1,0 +1,14 @@
+<DataAccessOptions>
+	<ConnectionOptions>
+		<DataSource>DESKTOP-TK1ILU0\SQLEXPRESS</DataSource>
+		<Database>AdventureWorks2017</Database>
+		<User>DESKTOP-TK1ILU0\stas1</User>
+		<Password></Password>
+		<IntegratedSecurity>False</IntegratedSecurity>
+	</ConnectionOptions>
+	<SendingOptions>
+		<Target>C:\Users\Public\Desktop\TargetFolder</Target>
+		<BatchSize>100</BatchSize>
+		<PullingMode>FullTable</PullingMode>
+	</SendingOptions>
+</DataAccessOptions>

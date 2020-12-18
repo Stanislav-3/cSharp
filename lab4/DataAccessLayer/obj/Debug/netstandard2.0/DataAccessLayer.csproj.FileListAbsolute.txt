@@ -1,0 +1,14 @@
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\OptionsManager.dll
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\Converter.dll
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\OptionsManager.pdb
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\bin\Debug\netstandard2.0\Converter.pdb
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\stas1\Desktop\lab4\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

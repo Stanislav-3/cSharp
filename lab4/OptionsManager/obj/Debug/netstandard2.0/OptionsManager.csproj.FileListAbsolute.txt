@@ -1,0 +1,12 @@
+C:\Users\stas1\Desktop\lab4\OptionsManager\bin\Debug\netstandard2.0\OptionsManager.deps.json
+C:\Users\stas1\Desktop\lab4\OptionsManager\bin\Debug\netstandard2.0\OptionsManager.dll
+C:\Users\stas1\Desktop\lab4\OptionsManager\bin\Debug\netstandard2.0\OptionsManager.pdb
+C:\Users\stas1\Desktop\lab4\OptionsManager\bin\Debug\netstandard2.0\Converter.dll
+C:\Users\stas1\Desktop\lab4\OptionsManager\bin\Debug\netstandard2.0\Converter.pdb
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.csprojAssemblyReference.cache
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.AssemblyInfoInputs.cache
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.AssemblyInfo.cs
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.csproj.CoreCompileInputs.cache
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.csproj.CopyComplete
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.dll
+C:\Users\stas1\Desktop\lab4\OptionsManager\obj\Debug\netstandard2.0\OptionsManager.pdb

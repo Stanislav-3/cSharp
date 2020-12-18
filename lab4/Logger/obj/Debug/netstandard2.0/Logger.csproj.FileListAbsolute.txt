@@ -1,0 +1,16 @@
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\Logger.deps.json
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\Logger.dll
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\Logger.pdb
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\Converter.dll
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\OptionsManager.dll
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\Converter.pdb
+C:\Users\stas1\Desktop\lab4\Logger\bin\Debug\netstandard2.0\OptionsManager.pdb
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.csprojAssemblyReference.cache
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfo.cs
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.csproj.CopyComplete
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.dll
+C:\Users\stas1\Desktop\lab4\Logger\obj\Debug\netstandard2.0\Logger.pdb
